@@ -358,7 +358,7 @@ class Oshwhub:
 url_pushplus = "http://pushplus.hxtrip.com/send"
 
 # 需修改部分
-OSHW = '{"184033A": "zhq390227"}'
+OSHW = '{"11111A": "11111117"}'
 
 # 推送加 推送
 # pushplus token
